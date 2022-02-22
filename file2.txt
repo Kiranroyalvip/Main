@@ -1,0 +1,2 @@
+Also the .txt extension is only for convenience and categorization. Some editors view the extension to format the data, but for a txt there's no differnce.
+Thank you Kiran
